@@ -1,0 +1,6 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE_PATH=F:\Android\TicTacToy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar
+FILE_HASH=55aeb465c1bdb2560ec839e5589fcdb829e60754
+DX_VERSION=1.13
+JUMBO_MODE=true
+OPTIMIZE=true

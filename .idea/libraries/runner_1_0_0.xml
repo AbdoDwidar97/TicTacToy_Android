@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="runner-1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.0.0.aar/dd31ab730216d75e685233df10fb3401/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/runner-1.0.0.aar/dd31ab730216d75e685233df10fb3401/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
